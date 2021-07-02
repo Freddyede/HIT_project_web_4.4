@@ -1,0 +1,22 @@
+{
+  "name": "gafa_project_web_4.4",
+  "version": "1.0.0",
+  "description": "cdcdcd",
+  "main": "index.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "php bin/phpunit"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Freddyede/gafa_project_web_4.4.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Freddyede/gafa_project_web_4.4/issues"
+  },
+  "homepage": "https://github.com/Freddyede/gafa_project_web_4.4#readme"
+}
