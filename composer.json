@@ -1,4 +1,6 @@
 {
+    "name": "symfony/hit",
+    "description": "Ce projet reprendra les principes fondamentaux du GAFA",
     "type": "project",
     "license": "proprietary",
     "require": {
@@ -77,6 +79,7 @@
             "cache:clear": "symfony-cmd",
             "assets:install %PUBLIC_DIR%": "symfony-cmd"
         },
+        "test":"php bin/phpunit",
         "post-install-cmd": [
             "@auto-scripts"
         ],
