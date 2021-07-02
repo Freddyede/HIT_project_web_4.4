@@ -8,4 +8,4 @@ on:
 
 jobs:
   laravel-tests:
-    run: vendor/bin/phpunit
+    run: php vendor/bin/phpunit
