@@ -13,4 +13,4 @@ jobs:
 
     steps:
     - name: TDD
-      run: php bin/phpunit
+      run: test
