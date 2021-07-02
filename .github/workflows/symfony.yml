@@ -13,4 +13,4 @@ jobs:
 
     steps:
     - name: TDD
-      run: php vendor/bin/phpunit
+      run: php bin/phpunit
