@@ -134,5 +134,12 @@
     - Surveillance
     - Test d'applications
 - Apple :
+    - Vente de produit
 - Facebook :
+    - Chat 
+    - Story
+    - Ajout d'amis
+    - Marketplace
+    - Groupes
+    - Gaming
 - Amazon :
