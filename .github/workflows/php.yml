@@ -12,5 +12,9 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
+    - name: Validate composer.json and composer.lock
+      run: composer validate
+    - name: Install dependencies
+      run: composer install
     - name: Run test suite
       run: composer run-script test
