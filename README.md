@@ -1,5 +1,138 @@
 # <center><u>High Information Technologies :<br></u> <br>![image info](./public/assets/logos/logo_small.png)
-## <u>HIT :</u><br>
+## <u>HIT Informations :</u><br>
 ### <u>Created at : 02/07/2021</u><br><br>
-<u>Objectifs :</u> Augmenter la performances de recherches et des fonctionnalités <br>
-primaires de nos utilisateurs
+### <u>Objectifs :</u> Augmenter la performances de recherches et des fonctionnalités primaires de nos utilisateurs
+## <u>Bureau de direction :</u>
+<br>
+
+|   <center>SEO</center>              |      <center>CO-SEO</center>                              |       <center>RH</center>          |
+|-------------------------------------|:---------------------------------------------------------:|-----------------------------------:|
+| <center>Patouillard Franck</center> |  <center>Amandine Dufour <br>Alexandre Todorovic</center> | <center>Célia Benlarbi</center>    |
+
+## <u>Tâches : </u>
+- Google :
+- - Actualités
+- - Agenda
+- - Android Auto
+- - Android TV
+- - Assistant Google
+- - Cardboard
+- - Chrome
+- - Chrome Enterprise
+- - Chromebook
+- - Chromecast
+- - Contacts
+- - Docs
+- - Drawings
+- - Drive
+- - Earth
+- - Exposure Notifications
+- - Forms
+- - Gboard
+- - Gmail
+- - Google Alertes
+- - Google Arts & Culture
+- - Google Cast
+- - Google Chat
+- - Google Classroom
+- - Google Cloud Print
+- - Google Duo
+- - Google Expéditions
+- - Google Express
+- - Google Fi
+- - Google Finance
+- - Google Fit
+- - Google Flights
+- - Google Fonts
+- - Google Groupes
+- - Google Meet
+- - Google One
+- - Google Outils de saisie
+- - Google Pay
+- - Google Play
+- - Google Play Books
+- - Google Play Films et séries
+- - Google Play Jeux
+- - Google Scholar
+- - Google Shopping icône
+- - Google Shopping
+- - Google Store
+- - Google Street View
+- - Google TV
+- - Hangouts
+- - Keep
+- - Maison connectée
+- - Maps
+- - Messages
+- - Nest Wifi icône
+- - Nest Wifi
+- - OS Android
+- - Photos
+- - Pixel
+- - Play Protect
+- - Podcasts
+- - Recherche
+- - Sheets
+- - Sites
+- - Slides
+- - Stadia
+- - Tilt Brush
+- - Traduction
+- - Travel
+- - Voice
+- - Waze
+- - Wear OS by Google
+- - YouTube
+- - YouTube Kids
+- - YouTube Music
+- - YouTube TV
+- - Actions de magasinage
+- - AdMob
+- - AdSense
+- - Analytics
+- - Android
+- - Assistant Google
+- - Blogger
+- - Business Messages
+- - Campagnes Google Shopping
+- - Chrome Enterprise
+- - Data Studio
+- - Google Ads
+- - Google Cloud
+- - Google Digital Garage
+- - Google Domains
+- - Google Enterprise Search
+- - Google Manufacturer Center
+- - Google Maps Platform
+- - Google Marketing Platform
+- - Google Merchant Center
+- - Google My Business
+- - Google Podcasts Manager
+- - Google Trends
+- - Google Web Designer icône
+- - Google Web Designer
+- - Google Workspace
+- - Optimize
+- - Search Console
+- - Surveys
+- - Tag Manager
+- - Waze Local
+- - Appareils
+- - Business Messages
+- - Cloud computing
+- - Connexion + Identité
+- - Croissance
+- - Engagement
+- - Exposure Notifications
+- - Messagerie + Notifications
+- - Monétisation
+- - Paiements
+- - Plans + Localisation
+- - Services de jeux icône
+- - Services de jeux
+- - Stockage + Synchronisation
+- - Surveillance
+- - Test d'applications
+- Apple :
+- Facebook :
+- Amazon :
