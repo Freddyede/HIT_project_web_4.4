@@ -5,9 +5,9 @@
 ## <u>Bureau de direction :</u>
 <br>
 
-|   SEO              |      CO-SEO     |<center>RH</center>|<center>Designer</center>|
-|--------------------|:---------------:|------------------:|------------------:|
-| Patouillard Franck |  Célia Benlarbi | Célia Benlarbi    |Alexandre Todorovic|
+|   SEO              |      CO-SEO                              |       RH          |      Designer     |
+|--------------------|:----------------------------------------:|------------------:|------------------:|
+| Patouillard Franck |  Amandine Dufour <br>Alexandre Todorovic | Célia Benlarbi    |Alexandre Todorovic|
 
 ## <u>Tâches : </u>
 - Google :
